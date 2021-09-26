@@ -20,7 +20,7 @@ Customers need to register in order to book a room in a hotel from 1 day to 10 d
   <li>Admin can add new receptionist when he/she joins the hotel. The login credentials for the receptionist is sent through a mail.</li>
   <li>Admin can view all the receptionists or by receptionist id.</li>
   <li> Admin can add available rooms in the hotel and view all the rooms that he has added.</li>
-  <li>Admin can add new offers that varies with festivals/seasons, view all the offers and he can change the offers accordingly.<li>
+  <li>Admin can add new offers that varies with festivals/seasons, view all the offers and he can change the offers accordingly.</li>
   <li>Admin can view customers feedback and booking history.</li>
 </ul>
 <h4>Receptionist:</h4>
